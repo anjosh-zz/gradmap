@@ -5,8 +5,8 @@
 # but you can also edit it by hand.
 
 meteor-platform
-dsyko:jquery-ui-touch-punch
 linto:jquery-ui
+dsyko:jquery-ui-touch-punch
 http
 ostrio:neo4jdriver
 ostrio:neo4jreactivity
