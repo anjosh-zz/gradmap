@@ -1,13 +1,15 @@
 .container {
   border: 1px dashed #CCC;
   position: relative;
+  width: 50%;
+  float: left;
 }
 
 .container > div {
   background: #AAA;
   position: absolute;
-  height: 100px;
-  width: 100px;
+  height: 70px;
+  width: 120px;
 }
 
 .container > .ss-placeholder-child {
