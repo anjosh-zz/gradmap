@@ -1,6 +1,6 @@
 # visualiz-website
-Intuitive and Interactive platform for college course planning and searching.
+Smart, Intuitive, and Interactive college course planning.
 
-Map out your ideal 4 year plan and stay on track to graduate.
+Map out and visualize your ideal course plan. Find awesome courses that fit your schedule. Graduate on time.
 
 Made with Meteor and Neo4j.
